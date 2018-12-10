@@ -27,3 +27,6 @@ Thumbs.db
 # KiCad backup files #
 *.bak
 *.bck
+
+# Ignore KiCad rescue libs files #
+*rescue.lib
