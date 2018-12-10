@@ -1,0 +1,29 @@
+# Ignore the following types of files.
+
+# Compiled source #
+###################
+*.exe
+*.o
+*.so
+*.obj
+
+# Eclipse specifics #
+###################
+*.cproject
+*.project
+Release
+Debug
+.settings
+
+# OS specifics #
+###################
+Thumbs.db
+
+# C files, since it's not a repo for code #
+*.cpp
+*.c
+*.cc
+
+# KiCad backup files #
+*.bak
+*.bck
