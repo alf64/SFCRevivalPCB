@@ -30,3 +30,6 @@ Thumbs.db
 
 # Ignore KiCad rescue libs files #
 *rescue.lib
+
+# Ignore KiCad footprint lib table files
+*fp-lib-table
