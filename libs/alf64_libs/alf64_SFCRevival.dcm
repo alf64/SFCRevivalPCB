@@ -5,4 +5,14 @@ D 74LVC245
 K 74LVC245
 $ENDCMP
 #
+$CMP DUAL_JUMPER
+D Bi state jumper
+K jumper
+$ENDCMP
+#
+$CMP SINGLE_JUMPER
+D Single pole jumper
+K jumper
+$ENDCMP
+#
 #End Doc Library
