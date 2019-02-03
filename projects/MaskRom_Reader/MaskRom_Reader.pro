@@ -1,4 +1,4 @@
-update=11.02.2018 20:07:52
+update=03.02.2019 09:38:59
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,9 +25,19 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
-LibDir=C:/Users/alf64/workspace/kicad/alf64_libs
+LibDir=C:/Users/alf64/workspace/SFCRevivalPCB/libs/alf64_libs
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -62,13 +72,3 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=alf64_SFCRevival
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
