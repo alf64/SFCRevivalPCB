@@ -1,4 +1,5 @@
 (module GOTRONIK_ADAP_TSOP48 (layer F.Cu) (tedit 5C459B02)
+  (tags GOTRONIK_ADAP_TSOP48)
   (fp_text reference REF** (at 15.24 -2.54) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

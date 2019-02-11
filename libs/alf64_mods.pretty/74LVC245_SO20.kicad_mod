@@ -1,5 +1,5 @@
 (module 74LVC245_SO20 (layer F.Cu) (tedit 5C55C426)
-  (tags 74LVC245_SO20)
+  (tags "74LVC245_SO20 SO20")
   (fp_text reference REF** (at 0 -7.12) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

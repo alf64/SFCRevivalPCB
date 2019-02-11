@@ -10,6 +10,10 @@ D Bi state jumper
 K jumper
 $ENDCMP
 #
+$CMP LD1117S33TR
+D LDO 3.3V
+$ENDCMP
+#
 $CMP SINGLE_JUMPER
 D Single pole jumper
 K jumper
