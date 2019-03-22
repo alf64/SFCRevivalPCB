@@ -1,0 +1,25 @@
+PCB: memi8M
+
+Laminat: FR4
+Cynowanie: HAL
+Maska: kolor zielony
+Grubosc laminatu: 1,5 mm
+Grubosc miedzi: 35 um
+Wymiary PCB: 131,6 mm x 99,2 mm
+
+Pliki warstw:
+memi8M-F.Cu.gtl - miedz TOP
+memi8M-F.Mask.gts - maska TOP
+memi8M-B.Cu.gbl - miedz BOTTOM
+memi8M-B.Mask.gbs - maska BOTTOM
+memi8M-Margin.gbr - obrys plytki
+memi8M-F.SilkS.gto - warstwa opisowa TOP
+
+Plik wiercen (Excellon):
+memi8M.drl
+
+Plik tekstowy raportu wiercen:
+memi8M-drl.rpt
+
+Plik mapa wiercen:
+memi8M-drl_map.gbr
