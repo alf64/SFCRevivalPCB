@@ -1,0 +1,26 @@
+Drill report for C:\Users\bmudlaff\workspaces\SFCRevivalPCB\projects\memi8M-01\memi8M-01.kicad_pcb
+Created on 2020-01-15 08:27:41
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'memi8M-01.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,40mm  0,016"  (131 holes)
+    T2  0,70mm  0,028"  (83 holes)
+    T3  0,90mm  0,035"  (55 holes)
+    T4  1,02mm  0,040"  (111 holes)
+    T5  3,20mm  0,126"  (4 holes)
+
+    Total plated holes count 384
+
+
+Drill file 'memi8M-01-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

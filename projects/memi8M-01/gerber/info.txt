@@ -1,0 +1,24 @@
+PCB name: memi8M-01
+
+Material type: FR4
+Surface finish: HAL
+Soldermask color: blue
+Board thickness: 1,6 mm
+Copper: 1oz (35um)
+Board dimensions: 133,35 mm x 100,33 mm
+
+Files:
+memi8M-01-F.Cu.gtl - copper TOP
+memi8M-01-F.Mask.gts - mask TOP
+memi8M-01-B.Cu.gbl - copper BOTTOM
+memi8M-01-B.Mask.gbs - mask BOTTOM
+memi8M-01-Edge.Cuts.gm1 - board layout
+
+Drill file (Excellon):
+memi8M-01.drl
+
+Drill report file:
+memi8M-01-drl.rpt
+
+Drill map file:
+memi8M-01-drl_map.gbr
