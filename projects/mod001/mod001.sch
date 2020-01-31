@@ -502,7 +502,7 @@ Wire Wire Line
 Wire Wire Line
 	6900 4000 7600 4000
 Wire Wire Line
-	8600 3500 8750 3500
+	8750 3500 8600 3500
 Wire Wire Line
 	8750 3600 8600 3600
 Wire Wire Line
@@ -565,11 +565,9 @@ Wire Wire Line
 Wire Wire Line
 	2150 800  2150 1100
 Wire Wire Line
-	1450 1400 1450 1500
+	1450 1500 1450 1400
 Wire Wire Line
 	700  1500 3750 1500
-Wire Wire Line
-	1550 1500 1550 1400
 $Comp
 L GND_ #PWR011
 U 1 1 5E0A649E
@@ -582,7 +580,7 @@ F 3 "" H 1500 1600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1500 1600 1500 1500
+	1500 1500 1500 1600
 Connection ~ 1500 1500
 $Comp
 L VCC_ #PWR012
@@ -626,7 +624,6 @@ Wire Wire Line
 Connection ~ 1450 1500
 Wire Wire Line
 	2150 1500 2150 1400
-Connection ~ 1550 1500
 Entry Wire Line
 	4150 2000 4250 2100
 Entry Wire Line
@@ -742,9 +739,9 @@ Wire Wire Line
 Wire Wire Line
 	8700 2000 8700 1800
 Wire Bus Line
-	9400 5650 9400 2100
+	9400 2100 9400 5650
 Wire Bus Line
-	1500 5650 9400 5650
+	9400 5650 1500 5650
 Wire Bus Line
 	1500 5650 1500 2200
 Entry Wire Line
@@ -1209,4 +1206,5 @@ Wire Wire Line
 Wire Wire Line
 	9200 3250 8750 3250
 Connection ~ 8750 3250
+NoConn ~ 1550 1400
 $EndSCHEMATC
