@@ -1,0 +1,24 @@
+PCB name: mod001
+
+Material type: FR4
+Surface finish: HAL
+Soldermask color: green
+Board thickness: 1,2 mm
+Copper: 1oz (35 um)
+Board dimensions: 90,2 mm x 59,7 mm
+
+Files:
+mod001-F.Cu.gtl - copper TOP
+mod001-F.Mask.gts - mask TOP
+mod001-B.Cu.gbl - copper BOTTOM
+mod001-B.Mask.gbs - mask BOTTOM
+mod001-Edge.Cuts.gm1 - board layout
+
+Drill file (Excellon):
+mod001.drl
+
+Drill report file:
+mod001-drl.rpt
+
+Plik map file:
+mod001-drl_map.gbr
