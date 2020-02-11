@@ -1,0 +1,24 @@
+PCB: mod002
+
+Laminat: FR4
+Cynowanie: HAL
+Maska: kolor zielony
+Grubosc laminatu: 1,2 mm
+Grubosc miedzi: 35 um
+Wymiary PCB: 64,77 mm x 67,31 mm
+
+Pliki warstw:
+mod002-F.Cu.gtl - miedz TOP
+mod002-F.Mask.gts - maska TOP
+mod002-B.Cu.gbl - miedz BOTTOM
+mod002-B.Mask.gbs - maska BOTTOM
+mod002-Edge.Cuts.gm1 - obrys plytki
+
+Plik wiercen (Excellon):
+mod002.drl
+
+Plik tekstowy raportu wiercen:
+mod002-drl.rpt
+
+Plik mapa wiercen:
+mod002-drl_map.gbr

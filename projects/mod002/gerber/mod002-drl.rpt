@@ -1,0 +1,24 @@
+Drill report for C:\Users\bmudlaff\workspaces\SFCRevivalPCB\projects\mod002\mod002.kicad_pcb
+Created on 2020-02-11 08:44:03
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'mod002.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,50mm  0,020"  (106 holes)
+    T2  0,60mm  0,024"  (1 hole)
+    T3  1,02mm  0,040"  (80 holes)
+
+    Total plated holes count 187
+
+
+Drill file 'mod002-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
